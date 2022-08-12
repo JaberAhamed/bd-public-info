@@ -186,22 +186,22 @@
   },
   {
     "id": 38,
-    "nam": "BRAC University",
+    "name": "BRAC University",
     "typ": "Private"
   },
   {
     "id": 39,
-    "nam": "East West University",
+    "name": "East West University",
     "typ": "Private"
   },
   {
     "id": 40,
-    "nam": "North South University",
+    "name": "North South University",
     "typ": "Private"
   },
   {
     "id": 41,
-    "nam": "American International University-Bangladesh",
+    "name": "American International University-Bangladesh",
     "typ": "Private"
   },
   {
@@ -211,12 +211,12 @@
   },
   {
     "id": 43,
-    "nam": "Bangladesh University of Business and Technology",
+    "name": "Bangladesh University of Business and Technology",
     "typ": "Private"
   },
   {
     "id": 44,
-    "nam": "Gono Bishwabidyalay",
+    "name": "Gono Bishwabidyalay",
     "typ": "Private"
   },
   {
