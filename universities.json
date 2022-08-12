@@ -187,42 +187,42 @@
   {
     "id": 38,
     "name": "BRAC University",
-    "typ": "Private"
+    "type": "Private"
   },
   {
     "id": 39,
     "name": "East West University",
-    "typ": "Private"
+    "type": "Private"
   },
   {
     "id": 40,
     "name": "North South University",
-    "typ": "Private"
+    "type": "Private"
   },
   {
     "id": 41,
     "name": "American International University-Bangladesh",
-    "typ": "Private"
+    "type": "Private"
   },
   {
     "id": 42,
-    "nam": "Independent University, Bangladesh",
-    "typ": "Private"
+    "name": "Independent University, Bangladesh",
+    "type": "Private"
   },
   {
     "id": 43,
     "name": "Bangladesh University of Business and Technology",
-    "typ": "Private"
+    "type": "Private"
   },
   {
     "id": 44,
     "name": "Gono Bishwabidyalay",
-    "typ": "Private"
+    "type": "Private"
   },
   {
     "id": 45,
-    "nam": "Hamdard University Bangladesh",
-    "typ": "Private"
+    "name": "Hamdard University Bangladesh",
+    "type": "Private"
   },
   {
     "id": 46,
